@@ -15,14 +15,16 @@ public class DistanceTrigger : MonoBehaviour
     [SerializeField]
     private float resetDelay = 10.0f;
     [SerializeField]
-    private string triggerName = "Nextanim";
+    private string triggerName = "StartAnim";
     private float timer;
 
     private Animator anim;
+    private AudioSource aud;
 
     void Start()
     {
         anim= this.GetComponent<Animator>();
+        aud= this.GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -38,6 +40,7 @@ public class DistanceTrigger : MonoBehaviour
     void Activate()
     {
         anim.SetTrigger(triggerName);
+        aud.Play();
         timer  = resetDelay;
     }
 }
