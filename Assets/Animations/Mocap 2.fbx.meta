@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: fe7d1e17e3064fd4a9e500492e3d0579
+guid: a07501c3618f4a748983d93e325ee003
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -33,11 +33,11 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Idle
+      name: Idle 2
       takeName: iPi Default Take
-      internalID: -2590317288640926464
-      firstFrame: 48
-      lastFrame: 49
+      internalID: 1053614174267446024
+      firstFrame: 45
+      lastFrame: 46
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -62,11 +62,11 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: iPi Default Take
+      name: Narrator 2
       takeName: iPi Default Take
       internalID: -6062664186237071191
-      firstFrame: 60
-      lastFrame: 278
+      firstFrame: 45
+      lastFrame: 545
       wrapMode: 0
       orientationOffsetY: 0
       level: 0

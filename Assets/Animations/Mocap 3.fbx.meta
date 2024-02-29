@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: fe7d1e17e3064fd4a9e500492e3d0579
+guid: bf9a0e81e2f2fd541a8aba724dc3389d
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -33,11 +33,11 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Idle
+      name: Idle 3
       takeName: iPi Default Take
-      internalID: -2590317288640926464
-      firstFrame: 48
-      lastFrame: 49
+      internalID: 1053614174267446024
+      firstFrame: 44
+      lastFrame: 45
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -45,7 +45,7 @@ ModelImporter:
       loop: 0
       hasAdditiveReferencePose: 0
       loopTime: 0
-      loopBlend: 1
+      loopBlend: 0
       loopBlendOrientation: 0
       loopBlendPositionY: 0
       loopBlendPositionXZ: 0
@@ -62,11 +62,11 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: iPi Default Take
+      name: Castle
       takeName: iPi Default Take
-      internalID: -6062664186237071191
-      firstFrame: 60
-      lastFrame: 278
+      internalID: -2590317288640926464
+      firstFrame: 44
+      lastFrame: 561
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
